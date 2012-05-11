@@ -1,0 +1,7 @@
+.git/
+.gitignore
+.deployignore
+Gemfile*
+Makefile
+README.markdown
+static/scss
